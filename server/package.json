@@ -1,0 +1,17 @@
+{
+  "name": "ss-test-server",
+  "version": "0.0.0",
+  "description": "Server for tech test on Suit Supply",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daniel Ortega <darthega@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.0"
+  }
+}
